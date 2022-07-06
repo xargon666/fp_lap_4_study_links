@@ -1,7 +1,19 @@
 FP Lap 4 Study Links
 =====
 
-[TOC]
+## Contents
+
+  * [August Home & Videos](#august-home---videos)
+  * [Summary](#summary)
+  * [Excercises](#excercises)
+  * [Demo Repos](#demo-repos)
+    + [FP](#fp)
+    + [Other](#other)
+    + [Further Reading](#further-reading)
+  * [Flask](#flask)
+    + [Extensions](#extensions)
+    + [Resources](#resources)
+  * [Final Project Examples](#final-project-examples)
 
 ## August Home & Videos
 
