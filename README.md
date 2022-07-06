@@ -50,7 +50,7 @@ FP Lap 4 Study Links
 - [Flask Login](https://flask-login.readthedocs.io/en/latest/)
 - [Authlib](https://authlib.org/)
 
-### Resources
+## Resources
 
 - [Official Flask Documentation](https://flask.palletsprojects.com/en/1.1.x/)
 - [Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
