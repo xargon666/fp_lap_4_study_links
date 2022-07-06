@@ -58,6 +58,8 @@ FP Lap 4 Study Links
 - [Jinja Templating](https://jinja.palletsprojects.com/en/2.11.x/)
 - [React SSR with Flask](https://medium.com/swlh/server-side-rendering-ssr-with-react-and-flask-47e589e1051f)
 - [Testing with pytest-flask](https://pytest-flask.readthedocs.io/en/latest/tutorial.html)
+- [Debug Python](https://www.youtube.com/watch?v=aZJnGOwzHtU)
+- [Why logs appear twice in StrictMode](https://www.youtube.com/watch?v=81faZzp18NM)
 
 ## Final Project Examples
 
