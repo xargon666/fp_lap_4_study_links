@@ -15,6 +15,8 @@ FP Lap 4 Study Links
     + [Resources](#resources)
   * [Final Project Examples](#final-project-examples)
 
+---
+
 ## August Home & Videos
 
 - [Auguste Home - Videos](https://github.com/orgs/getfutureproof/teams/auguste)
