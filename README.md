@@ -21,7 +21,8 @@ FP Lap 4 Study Links
 
 ## Summary
 
-- [Lap 4](https://github.com/getfutureproof/fp_guides_wiki/wiki/LAP-4)
+- [Lap 4 Hub](https://github.com/getfutureproof/fp_guides_wiki/wiki/LAP-4)
+- [Lap 4 Summary](https://github.com/getfutureproof/fp_summary_lap_4)
 
 ## Excercises
 
